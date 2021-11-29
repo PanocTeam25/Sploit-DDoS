@@ -1,0 +1,7 @@
+apt-get install python3
+
+pip install scapy
+
+pip install shodan
+
+
