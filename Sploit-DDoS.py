@@ -28,6 +28,7 @@ logo = color.HEADER + '''
 							      Instagram Team   : @panoc.team
 								  Private Instagram: @mr_noname25
 ####################################### DISCLAIMER ########################################
+'''
 | Memcrashed is a tool that allows you to use Shodan.io to obtain hundreds of vulnerable  |
 @@ -84,8 +84,15 @@ class color:
         if saveme.startswith('y') or query.startswith('y'):
